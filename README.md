@@ -14,6 +14,7 @@
 
 - **本文（技術版）**：[index.html](index.html)（GitHub Pages: https://whitelabel1940.github.io/decision-model-comparison-v1/ ）
 - **一般向けの解説記事（note）**：[「答えない」ことができるか ―― 7つの判断AIを同じ260問で比べて分かったこと](https://note.com/whitelabel1940/n/n444bca71de6e)
+- **前回の技術版**：[AIパートナーの判断層としてDecision Modelは使えるか](https://whitelabel1940.github.io/jev-ai-partner-decision-eval/)
 
 ## 概要
 
